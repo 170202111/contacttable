@@ -1,5 +1,5 @@
 {
-  "name": "Caglakral/yii2-table",
+  "name": "170202111/contacttable",
   "description": "Okul dersi projesi",
   "type": "yii2-extension",
   "keywords": ["yii2", "yii 2", "projemodulu", "module", "modules"],
@@ -20,12 +20,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Caglakral\\table\\": ""
+      "170202111\\contacttable\\": ""
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Caglakral\\table\\tests": "tests"
+      "170202111\\contacttable\\tests": "tests"
     }
   },
   "repositories": [{
