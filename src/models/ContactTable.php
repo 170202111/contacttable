@@ -1,6 +1,6 @@
 <?php
 
-namespace Caglakral\models;
+namespace 170202111\models;
 
 use Yii;
 

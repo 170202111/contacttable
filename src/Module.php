@@ -1,5 +1,5 @@
 <?php
-namespace Caglakral\table;
+namespace 170202111\table;
 
 use Yii;
 use yii\filters\auth\CompositeAuth;
